@@ -17,3 +17,6 @@ These are books that I've read and found helpful for me, your milage may vary re
 | Self-Compassion: The Proven Power of Being Kind to Yourself | Dr. Kristin Neff | Self Compassion | 9780061733529 | [Amazon Link](https://www.amazon.com/gp/product/0061733520) | Yes |
 | Platonic: How the Science of Attachment Can Help You Make--and Keep--Friends | Marisa G. Franco PhD | Platonic Relationships | 9780593331897 | [Amazon Link](https://www.amazon.com/gp/product/0593331893) | Yes |
 | Attached: The New Science of Adult Attachment and How It Can Help YouFind - and Keep - Love | Amir Levine and Rachel Heller | Romantic Relationships | 9781585429134 | [Amazon Link](https://www.amazon.com/gp/product/1585429139) | Yes |
+|Human Hacking - 
+Win Friends, Influence People, and Leave Them Better Off for Having Met You
+|Christopher Hadnagy, Seth Schulman| Leadership | 978-0063001787 | https://www.amazon.com/Human-Hacking-Friends-Influence-People/dp/0063001780| Yes |
